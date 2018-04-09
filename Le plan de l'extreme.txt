@@ -1,0 +1,10 @@
+C'est pas c'est pas vide
+
+
+Utiliser Pefile pour trouver les attributs sur un ensemble de samples de malware. Les comparer et faire une liste avec leur taux d'apparition.
+Utiliser Pefile pour trouver les attributs sur un ensemble de samples legit. Les comparer et faire une liste avec leur taux d'apparition.
+Comparer ces deux listes pour obtenir une liste d'attributs ne correspondant qu'aux malwares.
+
+Faire la même chôse avec lers résultats strings de MICHAAAAALLLLL.
+
+=> Obtenir une liste d'attribut parfaite sans faux positifs parce qu'on est beau.
