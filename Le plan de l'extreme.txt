@@ -1,3 +1,6 @@
+1) Trouver les bons attributs
+-----------------------------
+
 C'est pas c'est pas vide
 
 Utiliser Pefile pour trouver les attributs sur un ensemble de samples de malware. Les comparer et faire une liste avec leur taux d'apparition.
@@ -7,4 +10,16 @@ Comparer ces deux listes pour obtenir une liste d'attributs ne correspondant qu'
 Faire la même chôse avec lers résultats strings de MICHAAAAALLLLL.
 Récupérer des attributs n-gram par même méthode ?
 
-=> Obtenir une liste d'attribut parfaite sans faux positifs parce qu'on est beau.
+=> Obtenir une liste d'attribut parfaite sans faux positifs parce qu'on est beau. (aka on a fait des vecteurs)
+
+2) Automatiser la récupération d'attributs (aka faire un beau parser)
+---------------------------------------------------------------------
+
+3) Classifier les vecteurs par une méthode de notre choix
+---------------------------------------------------------
+
+4) Tenter un nouveau fichier et regarder si il est classifié au bon endroit.
+----------------------------------------------------------------------------
+
+5) Optionnel : faire un réseau de neurones mais je sais plus vraiment pourquoi.
+-------------------------------------------------------------------------------
